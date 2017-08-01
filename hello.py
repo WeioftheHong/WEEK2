@@ -22,6 +22,8 @@ def fizzBuzzPrint(n):
 
 print("'Hello, git!'")
 
-n = int(input("Fizz Buzz final number?"));
+n = int(input("Fizz Buzz final number?"))
 
 fizzBuzzIterative(1, n + 1)
+
+print("FizzBuzz Completed")
